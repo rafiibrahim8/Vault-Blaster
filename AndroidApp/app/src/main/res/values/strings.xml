@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Vault Blaster</string>
+    <string name="blast">Blast</string>
+    <string name="log">Logs...</string>
+    <string name="eula">About auto extension detection:\nAuto extension detection uses file signatures to detect file types.\nFile signatures was taken from:\n\t1. www.garykessler.net/library/file_sigs.html\n\t2. www.filesignatures.net\n\t3. www.researchgate.net/figure/225793510_fig1_Fig-1-AVI-file-header\n\t4. https://wangrui.wordpress.com/2007/06/19/file-signatures-table\n\nDisclaimer:\nThis program is made for fun and educational purpose only.\nThe program was not made for privacy violation.\nThe author of the program will not have any responsibility if any privacy violation or such thing happens using this program.\nIf you are here to decrypt files that is not yours then close the program now.\n\nUser Limitation:\nThis is an open-source and free program.\nYou may have a copy of source code at https://github.com/rafiibrahim8/Vault-Blaster\nYou are allowed to reproduce and/or redistribute the program with this license included without erasing anything.\n\n</string>
+    <string name="i_agree">I agree the terms and conditions above.</string>
+    <string name="eula_file">user_agreed</string>
+    <string name="continuebl">Continue</string>
+</resources>
